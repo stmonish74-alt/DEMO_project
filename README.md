@@ -1,2 +1,4 @@
 # DEMO_project
-DEMO_Project
+THIS is my first git repository
+<br>
+Author -MOnish (SDMCET)
